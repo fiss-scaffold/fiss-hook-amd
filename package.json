@@ -1,0 +1,32 @@
+{
+  "name": "fiss-hook-amd",
+  "version": "0.1.15",
+  "description": "fiss amd hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiss-scaffold/fiss-hook-amd.git"
+  },
+  "keywords": [
+    "fis3",
+    "amd"
+  ],
+  "author": {
+    "name": "fis"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fiss-scaffold/fiss-hook-amd/issues"
+  },
+  "homepage": "https://github.com/fiss-scaffold/fiss-hook-amd",
+  "dependencies": {
+    "escope": "^3.2.0",
+    "esprima": "^2.5.0",
+    "estraverse": "^4.1.0",
+    "fis3-hook-commonjs": "0.1.13"
+  }
+  
+}
